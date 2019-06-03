@@ -1,3 +1,5 @@
+A simple but fantastic guacamole recipe
+---------------------------------------
 * chop avocados
 * chop onion
 * squeeze lime
